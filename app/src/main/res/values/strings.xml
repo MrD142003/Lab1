@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaiThucHanh1</string>
+    <string-array name="quequan">
+        <item>Hà Nội</item>
+        <item>Thái Nguyên</item>
+        <item>Hải Phòng</item>
+        <item>Thái Bình</item>
+        <item>Quảng Ninh</item>
+    </string-array>
+</resources>
